@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ⚡ Fun fact: I've just discoverd this profile Readme thing.
+- ⚡ Fun fact: I've just discoverd (like 4 years ago) this profile Readme thing.
 
 <!--
 **EMBBlaster/EMBBlaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
